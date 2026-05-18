@@ -18,8 +18,8 @@ var izoTranslations = {
       
       // Hero Section
       'hero.title': 'Explore as Maravilhas de Cape Town com Izamo',
-      'hero.subtitle': 'Descubra a beleza e cultura da África do Sul com nossos passeios exclusivos',
-      'hero.cta': 'Reserve seu Passeio',
+      'hero.subtitle': 'Descubra a beleza e cultura da África do Sul com nossos passeios exclusivos, e encontre as melhores Acomodações de Cape Town aqui.',
+      'hero.cta': 'Reserve sua Acomodação',
       'hero.accommodation': 'Acomodação',
       'hero.tourism': 'Turismo',
       'hero.transport': 'Transporte',
@@ -46,7 +46,7 @@ var izoTranslations = {
       'features.partners.desc': 'Trabalhamos com as melhores instituições e fornecedores para garantir qualidade e segurança',
       
       // Services Section
-      'services.title': 'Nossos Passeios',
+      'services.title': 'CATÁLOGO DE SERVIÇOS',
       'services.subtitle': 'Descubra as Maravilhas de Cape Town',
       'services.citytour.title': 'CITY TOUR',
       'services.citytour.duration': 'Half Day (7am – 1pm)',
@@ -177,10 +177,14 @@ var izoTranslations = {
       'partners.tag1': 'Imobiliária',
       'partners.tag3': 'Parceiro Estratégico',
       'partners.btn': 'Ver Serviços Imobiliários',
+
+      'services.accommodation.title': 'SERVIÇOS DE ACOMODAÇÃO',
+      'services.accommodation.desc': 'Alojamento de curta e longa duração, e venda de propriedades em Cape Town, em parceria com Rawson.',
+      'services.accommodation.btn': 'Ver Detalhes',
       'footer.developed': 'Desenvolvido por',
       // ---- Real Estate Page ----
-      'nav.realestate': 'Real Estate Service',
-      'nav.tourism': 'Tourism',
+      'nav.realestate': 'Serviços de Acomodação',
+      'nav.tourism': 'Turismo',
       're.hero.h1a': 'Real Estate',
       're.hero.h1b': 'Service',
       're.hero.desc': 'A Izamo colabora com a Rawson (Observatory) para oferecer soluções de alojamento e serviços imobiliários de alta qualidade na Cidade do Cabo — desde alojamento temporário até investimento em propriedades residenciais.',
@@ -253,7 +257,7 @@ var izoTranslations = {
       
       // Hero Section
       'hero.title': 'Explore the Wonders of Cape Town with Izamo',
-      'hero.subtitle': 'Discover the beauty and culture of South Africa with our exclusive tours',
+      'hero.subtitle': 'Discover the beauty and culture of South Africa with our exclusive tours, and find the best Accommodation in Cape Town here.',
       'hero.cta': 'Book Your Tour',
       'hero.accommodation': 'Accommodation',
       'hero.tourism': 'Tourism',
@@ -281,7 +285,7 @@ var izoTranslations = {
       'features.partners.desc': 'We work with the best institutions and suppliers to ensure quality and security',
       
       // Services Section
-      'services.title': 'Our Tours',
+      'services.title': 'SERVICES CATALOGUE',
       'services.subtitle': 'Discover the Wonders of Cape Town',
       'services.citytour.title': 'CITY TOUR',
       'services.citytour.duration': 'Half Day (7am – 1pm)',
@@ -408,6 +412,10 @@ var izoTranslations = {
       'partners.tag1': 'Real Estate',
       'partners.tag3': 'Strategic Partner',
       'partners.btn': 'View Real Estate Services',
+
+      'services.accommodation.title': 'ACCOMMODATION SERVICES',
+      'services.accommodation.desc': 'Short and long-term accommodation, and property sales in Cape Town, in partnership with Rawson.',
+      'services.accommodation.btn': 'View Details',
       'footer.developed': 'Developed by',
       // ---- Real Estate Page ----
       'nav.realestate': 'Real Estate Service',
